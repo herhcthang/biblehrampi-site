@@ -1,0 +1,184 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:"/_next/static/chunks/227ubfacij0gy.js"
+4:"/_next/static/chunks/05xj8fo7x7ttn.js"
+5:"motionInitScript"
+6:I[67538,["$2","$3","$4"],"$5"]
+7:I[20032,["$2","$3","$4"],"default"]
+8:I[20531,["$2","$3","$4"],"default"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:I[37457,["$2","$3","$4"],"default"]
+b:I[22016,["$2","$3","$4"],""]
+c:I[63605,["$2","$3","$4"],"default"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3","$4"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3","$4"],"$19"]
+:HL["/_next/static/chunks/0p6n6qns_qo6a.css","style"]
+e:X
+11:X
+11:C
+14:[["children",{"s":"__PAGE__","h":160,"d":{"r":"$L15","p":"$@16","v":null,"s":"$e"}}]]
+12:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@13","v":"$11","s":"$e"},"c":"$Q14"}]]
+f:[["children",{"s":"pumkhat","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@10","v":"$11","s":"$e"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0p6n6qns_qo6a.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/227ubfacij0gy.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/05xj8fo7x7ttn.js","async":true}]],["$","html",null,{"lang":"en","className":"unggJa_variable _0bjUvq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]],["$","style",null,{"id":"bh-tokens","dangerouslySetInnerHTML":{"__html":":root{--bh-bg:#FBF9F6;--bh-bg-alt:#F5F3EF;--bh-card:#FFFFFF;--bh-text:#2D3436;--bh-text-dark:#1A1F20;--bh-sage:#7C9885;--bh-sage-hover:#6B8874;--bh-gold:#C9A962;--bh-gold-hover:#B89852;--bh-footer:#2D3436;--bh-footer-text:#FBF9F6;--bh-ink-body:#606566;--bh-ink-faint:#676B6C;--bh-ink-sage:#58705F;--bh-ink-gold:#82672D;--bh-ink-sage-display:#6B8874;--bh-ink-on-sage:#1A1F20;--bh-ink-on-sage-hover:#0F1314;--bh-ink-footer-muted:#C8C8C6}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"Page not found"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":["This address doesn’t match a page on the site. Go back to the"," ",["$","$Lb",null,{"href":"/","className":"prose-link","children":"home page"}]," ","or browse the"," ",["$","$Lb",null,{"href":"/teaching/","className":"prose-link","children":"teaching"}],"."]}]}],"$undefined"]}]}]}],[]]}]}],["$","footer",null,{"className":"theme-dark relative z-10 bg-footer","children":["$","div",null,{"className":"wrap flex flex-col gap-8 py-12 text-[0.92rem] text-[var(--fg-muted)] md:flex-row md:items-end md:justify-between","children":[["$","div",null,{"className":"max-w-md","children":[["$","p",null,{"className":"font-serif text-[1.35rem] leading-tight text-[var(--fg)]","children":["Bible ",["$","span",null,{"className":"italic","children":"Hrampi"}]]}],["$","p",null,{"className":"mt-1","children":"Biblical Foundations"}],["$","p",null,{"className":"mt-5 text-[0.85rem] text-[var(--fg-faint)]","children":"Scripture quotations are from the American Standard Version (1901), which is in the public domain."}]]}],["$","div",null,{"className":"flex flex-col gap-3 md:items-end","children":[["$","ul",null,{"className":"flex flex-wrap gap-x-6 gap-y-2","children":[["$","li",null,{"children":["$","$Lb",null,{"href":"/privacy/","className":"hover:text-[var(--fg)]","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$Lb",null,{"href":"/terms/","className":"hover:text-[var(--fg)]","children":"Terms"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:biblehrampi@gmail.com","className":"break-all text-gold underline decoration-[color-mix(in_oklab,var(--bh-gold)_45%,transparent)] underline-offset-4 hover:text-[var(--fg)]","children":"biblehrampi@gmail.com"}]}]]}],["$","div",null,{"className":"flex flex-wrap gap-x-6 gap-y-2 text-[var(--fg-faint)]","children":[["$","$Lc",null,{}],["$","p",null,{"children":["© ",2026," Bible Hrampi"]}]]}]]}]]}]}]]}]]}]]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FBF9F6"}]]}],["$","$L1a",null,{"children":["$L1b",null]}],"$L1c"]}],"p":"$@1d","v":null,"s":"$e"}},"a":"$@1e","u":"$@1f","b":"CQZcVEM4N2phCAIZDUhLh"}
+22:"$Sreact.suspense"
+23:I[27201,["$2","$3","$4"],"IconMark"]
+20:T3787,<div class="note">
+<p><strong>The short version.</strong> PUMKHAT helps churches stay connected: members, departments, events, chats, prayer and announcements. We collect what the app needs to do that. We don't sell your information, we don't show ads, and we don't use advertising trackers. You can delete your account inside the app.</p>
+</div>
+
+<h2>Who we are</h2>
+<p>PUMKHAT is operated by Herh Cung Thang, an individual ("we", "us"). If PUMKHAT later becomes a company, we will update this policy. If you have any question about this policy or your information, email <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a>.</p>
+<p>This policy covers the PUMKHAT app for iPhone and iPad (and any other version we release) and the related web pages at biblehrampi.com.</p>
+
+<h2>What we collect</h2>
+<h3>Information you give us</h3>
+<ul>
+  <li><strong>Account details:</strong> your email address and password (the password is stored only in scrambled, hashed form), or the details your sign-in provider shares with us if you use Sign in with Apple, Google or Facebook (usually your name and email address).</li>
+  <li><strong>Birth month and year:</strong> we ask for your birth month and year (never the day) when you sign up, to confirm you are 13 or older and to apply extra safety rules in chats for members under 18.</li>
+  <li><strong>Profile:</strong> your display name, profile photo, a short status line, and, if you choose, your birthday (month and day) and a directory email and phone number. You decide who can see your directory contact details.</li>
+  <li><strong>Church activity:</strong> the churches, departments, teams and organizations you join or create, your role (for example member, leader, pastor or owner), and invitations you send or accept.</li>
+  <li><strong>Things you post:</strong> chat messages, reactions, photos, files, voice notes, announcements, prayer requests, events, calendar plans, letters, reports and other content you add.</li>
+  <li><strong>Church information:</strong> if you manage a church, its name, logo, address, phone, email, service times and website or social links, plus church records such as event budgets, receipts and treasury or activity reports that leaders choose to upload.</li>
+  <li><strong>Messages to us:</strong> anything you send when you email us for help.</li>
+</ul>
+
+<h3>Information collected when you use the app</h3>
+<ul>
+  <li><strong>Push notification token:</strong> if you allow notifications, your device's push token, so we can send church updates to your phone.</li>
+  <li><strong>Basic technical and security data:</strong> our hosting provider records standard server logs (such as IP address, time of request and device or browser type) to keep the service working and secure.</li>
+</ul>
+
+<h3>Device features we use only when you ask</h3>
+<ul>
+  <li><strong>Camera and photos:</strong> only when you choose to take or pick a photo (a profile picture, church image, event photo, chat photo, receipt or a paper Annual Plan).</li>
+  <li><strong>Microphone:</strong> only while you record a voice note in a conversation.</li>
+  <li><strong>Location:</strong> only when you tap "Use my location" while finding a church. We read an approximate position once, use it on your phone to sort churches by distance, and do not save it or send it to our servers. We never use location in the background.</li>
+  <li><strong>Your device calendar:</strong> only if you turn it on, and only the calendars you choose. We show those events privately inside PUMKHAT so you can see when you're busy. Those calendar details stay on your device; we don't upload them.</li>
+  <li><strong>Face ID / passcode:</strong> your phone may use it to protect your saved sign-in. We never receive your face data.</li>
+</ul>
+
+<h3>What we don't collect</h3>
+<ul>
+  <li>We don't use advertising, ad tracking or third-party analytics tools.</li>
+  <li>We don't read your phone's contacts.</li>
+  <li>We don't collect motion or fitness data. (iOS lists a motion entry because a location library requires it; PUMKHAT never asks for it.)</li>
+  <li>We don't take payments inside the app.</li>
+</ul>
+
+<h2>How we use your information</h2>
+<ul>
+  <li>To create your account, sign you in and keep it secure.</li>
+  <li>To run the app: show your church's calendar, chats, announcements, prayer requests, directories and other features to the right people.</li>
+  <li>To send notifications you've allowed, and account emails (like email verification and password reset).</li>
+  <li>To keep members safe: confirm the 13+ age limit, apply teen chat safety rules, and handle blocks, reports and moderation.</li>
+  <li>To provide optional AI helpers (see below).</li>
+  <li>To fix problems, prevent abuse and improve the app.</li>
+  <li>To follow the law and respond to valid legal requests.</li>
+</ul>
+<p>We do not sell your personal information, and we do not share it for advertising.</p>
+
+<h2>Who can see your information inside a church</h2>
+<p>PUMKHAT is built around church communities, so much of what you share is meant to be seen by others in your church. In general:</p>
+<ul>
+  <li><strong>Your name and photo</strong> are visible to members of the churches and groups you belong to.</li>
+  <li><strong>Chats</strong> are visible to the members of that chat. The church-wide chat is visible to all members of the church.</li>
+  <li><strong>Church leaders</strong> (the owner and pastors, and department leaders for their own department) can manage members and moderate chats. When a leader removes a message, the removed text is kept in a private leader record (for the owner and pastors) for as long as that chat exists.</li>
+  <li><strong>Directory email and phone</strong> are shown only to the people you choose: nobody, leaders, the whole congregation or selected departments.</li>
+  <li><strong>Teen status:</strong> only the church owner, pastors and the top officers of a teen's own department can see that a member is under 18. Your exact birth month and year are not shown to other members.</li>
+  <li><strong>Other churches and organizations:</strong> if your church works with another church or a partner organization, information that leaders choose to share (such as joint events or public church details) may be visible to them.</li>
+  <li><strong>Public church details:</strong> a church's name, city and public details may appear in "Find a Church" so people can find and ask to join it.</li>
+</ul>
+<p>Please think before you post. Anyone who can see a message or photo could copy or screenshot it, and we can't take back copies that others already downloaded.</p>
+
+<h2>AI helpers</h2>
+<p>Some PUMKHAT features use artificial intelligence. Today this is the <strong>Annual Plan reader</strong>: when a church leader uploads an Annual Plan (a PDF or photo), our server sends that file to Anthropic's Claude AI to pull out the events and dates, which the leader then reviews before anything is added to the calendar.</p>
+<ul>
+  <li>AI requests are sent from our server, never directly from your phone.</li>
+  <li>We only send what the feature needs (for example, the uploaded plan and the church's department and team names to match events).</li>
+  <li>Under our provider's commercial terms, data sent through its API is not used to train its models.</li>
+  <li>AI results can be wrong. Always check them.</li>
+</ul>
+<p>If we add new AI features (for example, help making templates or flyers), we will update this policy and the list of providers below.</p>
+
+<h2>Service providers we use</h2>
+<p>We use trusted companies to run PUMKHAT. They process information on our behalf and only as needed to provide their service.</p>
+<div class="table-wrap">
+<table>
+  <tr><th>Provider</th><th>What they do for PUMKHAT</th></tr>
+  <tr><td>Supabase</td><td>Our main backend: database, sign-in, file storage and server functions. Hosted in the United States (Ohio, us-east-2).</td></tr>
+  <tr><td>Apple</td><td>Sign in with Apple; push notifications (Apple Push Notification service); weather forecasts for outdoor events (WeatherKit, using the event's location, not yours); app distribution through the App Store and TestFlight.</td></tr>
+  <tr><td>Google</td><td>Sign in with Google, if you choose it.</td></tr>
+  <tr><td>Meta (Facebook)</td><td>Sign in with Facebook, if you choose it and when it is offered.</td></tr>
+  <tr><td>Expo (650 Industries)</td><td>Delivers push notifications to your device. The notification title and text (for example, a short message preview) pass through this service.</td></tr>
+  <tr><td>Hostinger</td><td>Sends our emails (sender pumkhat@biblehrampi.com), such as verification and password reset, and hosts our web pages.</td></tr>
+  <tr><td>Anthropic</td><td>AI processing for the Annual Plan reader (server-side).</td></tr>
+  <tr><td>U.S. Census Bureau Geocoder</td><td>Turns an outdoor event's street address into map coordinates for its weather forecast. Only the event address is sent.</td></tr>
+  <tr><td>GitHub Pages (GitHub)</td><td>Hosts the email-confirmation page you see when you confirm your email address.</td></tr>
+</table>
+</div>
+<p>When you tap to get directions, PUMKHAT opens a map app you choose (Apple Maps, Google Maps or Waze). That app's own privacy policy applies there.</p>
+<p>We may also share information if the law requires it, to protect people's safety, or as part of a merger or sale of the service (and we'd tell you first).</p>
+
+<h2>How long we keep information</h2>
+<ul>
+  <li>We keep your account information while your account is open.</li>
+  <li>Content you post in a church (like messages and photos) stays in that church's chats and records while the church uses PUMKHAT, unless you or a leader delete it.</li>
+  <li>The device location used for "Find a Church" is never stored.</li>
+  <li>Uploaded Annual Plan files sent for AI reading are used only to make the suggestion. Our AI provider may keep request data for a short period for safety and abuse monitoring, and then deletes it.</li>
+  <li>Server logs and backups are kept for a limited time by our providers and then deleted on their normal schedule.</li>
+</ul>
+
+<h2>Deleting your account</h2>
+<p>You can delete your account in the app: tap <strong>Profile</strong> (bottom bar) &rarr; <strong>Account &amp; Security</strong> &rarr; <strong>Review account deletion</strong> &rarr; <strong>Delete account</strong>. You see what will be removed, wait five seconds, and then make the final choice.</p>
+<ul>
+  <li>If you own a church, you'll first need to transfer ownership to someone else.</li>
+  <li>If you signed in with Apple, you may be asked to confirm with Apple again, and we ask Apple to revoke PUMKHAT's access.</li>
+  <li><strong>What is removed:</strong> your sign-in, your private profile details and profile photo, your church memberships and your device registrations (push tokens).</li>
+  <li><strong>What stays, without your name:</strong> things you added to shared church spaces (messages, photos, files, reactions and poll votes in shared chats, plus church events, comments and history records) stay so conversations and church records still make sense. They are shown as from a "Former member" and are no longer linked to you. If you want specific posts removed, delete them before you delete your account, or email us.</li>
+</ul>
+<p>If you can't use the app, email <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a> from the email on your account and we'll help.</p>
+
+<h2>Children and teens</h2>
+<ul>
+  <li>PUMKHAT is for people <strong>13 and older</strong>. We ask for birth month and year at sign-up, and people under 13 cannot create an account.</li>
+  <li>We do not knowingly collect personal information from children under 13. If you believe a child under 13 is using PUMKHAT, email us and we will delete the account.</li>
+  <li>For members aged 13 to 17, churches can turn on extra chat safety rules (for example, requiring two adults in chats with teens, and letting only leaders add teens to small groups).</li>
+</ul>
+
+<h2>Security</h2>
+<p>We use encrypted connections (HTTPS) for all data sent between the app and our servers, store passwords only in hashed form, keep your saved sign-in in your phone's secure storage, and use database access rules so people only see what their church role allows. Private files are shared through short-lived links. No system is perfectly secure, so please use a password you don't use elsewhere and tell us right away if you think your account has been misused.</p>
+
+<h2>International users</h2>
+<p>PUMKHAT is run from the United States, and our servers are in the United States. If you use PUMKHAT from another country (for example Myanmar, India or elsewhere), your information will be transferred to and stored in the United States, where privacy laws may differ from those in your country.</p>
+
+<h2>Your rights and choices</h2>
+<ul>
+  <li><strong>See and update:</strong> you can view and edit your profile and directory privacy settings in the app.</li>
+  <li><strong>Notifications:</strong> turn push notifications off at any time in your phone's settings.</li>
+  <li><strong>Device permissions:</strong> you can turn camera, photos, microphone, location and calendar access off in your phone's settings.</li>
+  <li><strong>Delete:</strong> delete your account in the app, or delete your own posts.</li>
+  <li><strong>Block and report:</strong> you can block people and report messages.</li>
+  <li><strong>Ask us:</strong> depending on where you live (for example, California, the EU or the UK), you may have the right to access, correct, delete or get a copy of your information, or to object to certain uses. Email us and we'll respond within the time the law requires. We won't treat you differently for using these rights.</li>
+</ul>
+
+<h2>Changes to this policy</h2>
+<p>We may update this policy as PUMKHAT changes. We'll change the date at the top, and if the change is important we'll let you know in the app or by email before it takes effect.</p>
+
+<h2>Contact us</h2>
+<p>PUMKHAT is operated by Herh Cung Thang. We are reachable by email only: <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a></p>15:["$","$1","c",{"children":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"PUMKHAT Privacy Policy"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":"Last updated: October 20, 2026"}]}],["$","div",null,{"className":"reading mt-12","children":[["$","p",null,{"className":"legal-product","children":"PUMKHAT is a church community app by Bible Hrampi."}],["$","div",null,{"className":"legal","dangerouslySetInnerHTML":{"__html":"$20"}}]]}]]}]}]}],null,"$L21"]}]
+1b:["$","div",null,{"hidden":true,"children":["$","$22",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"PUMKHAT Privacy Policy | Bible Hrampi"}],["$","meta","1",{"name":"description","content":"How the PUMKHAT church app collects, uses and protects your information."}],["$","meta","2",{"property":"og:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","3",{"property":"og:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","meta","4",{"property":"og:url","content":"https://biblehrampi.com/"}],["$","meta","5",{"property":"og:site_name","content":"Bible Hrampi"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","9",{"name":"twitter:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L23","11",{}]]}]}]
+1c:["$","meta",null,{"name":"next-size-adjust","content":""}]
+24:I[97367,["$2","$3","$4"],"OutletBoundary"]
+e:300
+21:["$","$L24",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+1f:true
+e:C
+25:null
+1e:0
+13:"$undefined"
+10:"$undefined"
+d:"$undefined"
+1d:"$undefined"
+16:"$undefined"

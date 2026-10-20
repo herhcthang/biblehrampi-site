@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:"/_next/static/chunks/227ubfacij0gy.js"
+4:"/_next/static/chunks/05xj8fo7x7ttn.js"
+5:"motionInitScript"
+6:I[67538,["$2","$3","$4"],"$5"]
+7:I[20032,["$2","$3","$4"],"default"]
+8:I[20531,["$2","$3","$4"],"default"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:I[37457,["$2","$3","$4"],"default"]
+b:I[22016,["$2","$3","$4"],""]
+c:I[63605,["$2","$3","$4"],"default"]
+16:"ViewportBoundary"
+17:I[97367,["$2","$3","$4"],"$16"]
+:HL["/_next/static/chunks/0p6n6qns_qo6a.css","style"]
+e:X
+11:X
+11:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":"$L13"}]}],null,"$L14"]}],"p":"$@15","v":null,"s":"$e"}}]]
+f:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@10","v":"$11","s":"$e"},"c":"$Q12"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0p6n6qns_qo6a.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/227ubfacij0gy.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/05xj8fo7x7ttn.js","async":true}]],["$","html",null,{"lang":"en","className":"unggJa_variable _0bjUvq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]],["$","style",null,{"id":"bh-tokens","dangerouslySetInnerHTML":{"__html":":root{--bh-bg:#FBF9F6;--bh-bg-alt:#F5F3EF;--bh-card:#FFFFFF;--bh-text:#2D3436;--bh-text-dark:#1A1F20;--bh-sage:#7C9885;--bh-sage-hover:#6B8874;--bh-gold:#C9A962;--bh-gold-hover:#B89852;--bh-footer:#2D3436;--bh-footer-text:#FBF9F6;--bh-ink-body:#606566;--bh-ink-faint:#676B6C;--bh-ink-sage:#58705F;--bh-ink-gold:#82672D;--bh-ink-sage-display:#6B8874;--bh-ink-on-sage:#1A1F20;--bh-ink-on-sage-hover:#0F1314;--bh-ink-footer-muted:#C8C8C6}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L9",null,{"parallelRouterKey":"children","template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"Page not found"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":["This address doesn’t match a page on the site. Go back to the"," ",["$","$Lb",null,{"href":"/","className":"prose-link","children":"home page"}]," ","or browse the"," ",["$","$Lb",null,{"href":"/teaching/","className":"prose-link","children":"teaching"}],"."]}]}],"$undefined"]}]}]}],[]]}]}],["$","footer",null,{"className":"theme-dark relative z-10 bg-footer","children":["$","div",null,{"className":"wrap flex flex-col gap-8 py-12 text-[0.92rem] text-[var(--fg-muted)] md:flex-row md:items-end md:justify-between","children":[["$","div",null,{"className":"max-w-md","children":[["$","p",null,{"className":"font-serif text-[1.35rem] leading-tight text-[var(--fg)]","children":["Bible ",["$","span",null,{"className":"italic","children":"Hrampi"}]]}],["$","p",null,{"className":"mt-1","children":"Biblical Foundations"}],["$","p",null,{"className":"mt-5 text-[0.85rem] text-[var(--fg-faint)]","children":"Scripture quotations are from the American Standard Version (1901), which is in the public domain."}]]}],["$","div",null,{"className":"flex flex-col gap-3 md:items-end","children":[["$","ul",null,{"className":"flex flex-wrap gap-x-6 gap-y-2","children":[["$","li",null,{"children":["$","$Lb",null,{"href":"/privacy/","className":"hover:text-[var(--fg)]","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$Lb",null,{"href":"/terms/","className":"hover:text-[var(--fg)]","children":"Terms"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:biblehrampi@gmail.com","className":"break-all text-gold underline decoration-[color-mix(in_oklab,var(--bh-gold)_45%,transparent)] underline-offset-4 hover:text-[var(--fg)]","children":"biblehrampi@gmail.com"}]}]]}],["$","div",null,{"className":"flex flex-wrap gap-x-6 gap-y-2 text-[var(--fg-faint)]","children":[["$","$Lc",null,{}],["$","p",null,{"children":["© ",2026," Bible Hrampi"]}]]}]]}]]}]}]]}]]}]]}],"p":"$@d","v":null,"s":"$e"},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FBF9F6"}]]}],"$L18","$L19"]}],"p":"$@1a","v":null,"s":"$e"}},"a":"$@1b","u":"$@1c","b":"CQZcVEM4N2phCAIZDUhLh"}
+1d:I[97367,["$2","$3","$4"],"OutletBoundary"]
+1e:"$Sreact.suspense"
+20:"MetadataBoundary"
+21:I[97367,["$2","$3","$4"],"$20"]
+22:I[27201,["$2","$3","$4"],"IconMark"]
+13:["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"Page not found"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":["This address doesn’t match a page on the site. Go back to the"," ",["$","$Lb",null,{"href":"/","className":"prose-link","children":"home page"}]," ","or browse the"," ",["$","$Lb",null,{"href":"/teaching/","className":"prose-link","children":"teaching"}],"."]}]}],"$undefined"]}]
+14:["$","$L1d",null,{"children":["$","$1e",null,{"name":"Next.MetadataOutlet","children":"$@1f"}]}]
+18:["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found | Bible Hrampi"}],["$","meta","1",{"name":"description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","meta","2",{"property":"og:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","3",{"property":"og:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","meta","4",{"property":"og:url","content":"https://biblehrampi.com/"}],["$","meta","5",{"property":"og:site_name","content":"Bible Hrampi"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","9",{"name":"twitter:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L22","11",{}]]}]}],null]}]
+19:["$","meta",null,{"name":"next-size-adjust","content":""}]
+e:300
+1f:null
+1c:true
+e:C
+1b:0
+10:"$undefined"
+d:"$undefined"
+1a:"$undefined"
+15:"$undefined"
