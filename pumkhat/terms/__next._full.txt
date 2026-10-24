@@ -1,44 +1,43 @@
 1:"$Sreact.fragment"
-2:"static/chunks/ba5fe4b1-1a497dc03b6c36ec.js"
-3:"static/chunks/231-63f2c541768e33df.js"
-4:"static/chunks/620-f582c1cd69dfb5ee.js"
-5:"static/chunks/304-8af0763b42e05884.js"
-6:"static/chunks/app/layout-2ad3491b5f2c2c79.js"
-7:"motionInitScript"
-8:I[7918,["821","$2","231","$3","620","$4","304","$5","177","$6"],"$7"]
-9:I[1903,["821","$2","231","$3","620","$4","304","$5","177","$6"],"default"]
-a:I[5445,["821","$2","231","$3","620","$4","304","$5","177","$6"],"default"]
-b:I[3506,[],""]
-c:I[1472,[],""]
-d:I[6231,["821","$2","231","$3","620","$4","304","$5","177","$6"],""]
-e:I[8820,["821","$2","231","$3","620","$4","304","$5","177","$6"],"default"]
-15:"ViewportBoundary"
-16:I[3179,[],"$15"]
-18:"MetadataBoundary"
-19:I[3179,[],"$18"]
-1a:"$Sreact.suspense"
-1c:I[9050,[],"default",1]
-:HL["/_next/static/media/6448e9c529f1ef4a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/cb9f64d62d112b41-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/98f12f238877d9dc.css","style"]
-10:X
-13:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L14","p":false,"v":null}}]]
-11:[["children",{"s":"terms","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L12","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q13"}]]
-f:[["children",{"s":"pumkhat","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
-0:{"P":null,"c":["","pumkhat","terms",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/98f12f238877d9dc.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_3ef085 __variable_d8ebd1","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]],["$","style",null,{"id":"bh-tokens","dangerouslySetInnerHTML":{"__html":":root{--bh-bg:#FBF9F6;--bh-bg-alt:#F5F3EF;--bh-card:#FFFFFF;--bh-text:#2D3436;--bh-text-dark:#1A1F20;--bh-sage:#7C9885;--bh-sage-hover:#6B8874;--bh-gold:#C9A962;--bh-gold-hover:#B89852;--bh-footer:#2D3436;--bh-footer-text:#FBF9F6;--bh-ink-body:#606566;--bh-ink-faint:#676B6C;--bh-ink-sage:#58705F;--bh-ink-gold:#82672D;--bh-ink-sage-display:#6B8874;--bh-ink-on-sage:#1A1F20;--bh-ink-on-sage-hover:#0F1314;--bh-ink-footer-muted:#C8C8C6}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$8"}}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L9",null,{}],["$","$La",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lc",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"Page not found"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":["This address doesn’t match a page on the site. Go back to the"," ",["$","$Ld",null,{"href":"/","className":"prose-link","children":"home page"}]," ","or browse the"," ",["$","$Ld",null,{"href":"/teaching/","className":"prose-link","children":"teaching"}],"."]}]}],"$undefined"]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"theme-dark relative z-10 bg-footer","children":["$","div",null,{"className":"wrap flex flex-col gap-8 py-12 text-[0.92rem] text-[var(--fg-muted)] md:flex-row md:items-end md:justify-between","children":[["$","div",null,{"className":"max-w-md","children":[["$","p",null,{"className":"font-serif text-[1.35rem] leading-tight text-[var(--fg)]","children":["Bible ",["$","span",null,{"className":"italic","children":"Hrampi"}]]}],["$","p",null,{"className":"mt-1","children":"Biblical Foundations"}],["$","p",null,{"className":"mt-5 text-[0.85rem] text-[var(--fg-faint)]","children":"Scripture quotations are from the American Standard Version (1901), which is in the public domain."}]]}],["$","div",null,{"className":"flex flex-col gap-3 md:items-end","children":[["$","ul",null,{"className":"flex flex-wrap gap-x-6 gap-y-2","children":[["$","li",null,{"children":["$","$Ld",null,{"href":"/privacy/","className":"hover:text-[var(--fg)]","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$Ld",null,{"href":"/terms/","className":"hover:text-[var(--fg)]","children":"Terms"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:biblehrampi@gmail.com","className":"break-all text-gold underline decoration-[color-mix(in_oklab,var(--bh-gold)_45%,transparent)] underline-offset-4 hover:text-[var(--fg)]","children":"biblehrampi@gmail.com"}]}]]}],["$","div",null,{"className":"flex flex-wrap gap-x-6 gap-y-2 text-[var(--fg-faint)]","children":[["$","$Le",null,{}],["$","p",null,{"children":["© ",2026," Bible Hrampi"]}]]}]]}]]}]}]]}]]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"-E-cRFImyJObfiIT0r3tR"}
-10:C
-12:["$","$Lc",null,{}]
-1d:T26af,<div class="note">
+2:"/_next/static/chunks/0umf92h1sb77c.js"
+3:"/_next/static/chunks/227ubfacij0gy.js"
+4:"/_next/static/chunks/3mvxsrsx5ncgs.js"
+5:"motionInitScript"
+6:I[67538,["$2","$3","$4"],"$5"]
+7:I[20032,["$2","$3","$4"],"default"]
+8:I[20531,["$2","$3","$4"],"default"]
+9:I[39756,["$2","$3","$4"],"default"]
+a:I[37457,["$2","$3","$4"],"default"]
+b:I[22016,["$2","$3","$4"],""]
+15:I[68027,["$2","$3","$4"],"default",1]
+:HL["/_next/static/chunks/2zs3c9bragx9a.css","style"]
+:HL["/_next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/66b33cc02d8f8b9d-s.p.3slq8sz4zhb1g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+f:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":"$L13","p":false,"v":null}}]]
+10:[["children",{"s":"terms","h":512,"d":{"r":"$L11","p":false,"v":"$f"},"c":"$Q12"}]]
+d:[["children",{"s":"pumkhat","h":512,"d":{"r":"$Le","p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","pumkhat","terms",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2zs3c9bragx9a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0umf92h1sb77c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/227ubfacij0gy.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/3mvxsrsx5ncgs.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"unggJa_variable _0bjUvq_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[[["$","meta",null,{"httpEquiv":"Content-Security-Policy","content":"default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'self'"}],["$","meta",null,{"name":"referrer","content":"strict-origin-when-cross-origin"}]],["$","style",null,{"id":"bh-tokens","dangerouslySetInnerHTML":{"__html":":root{--bh-bg:#FBF9F6;--bh-bg-alt:#F5F3EF;--bh-card:#FFFFFF;--bh-text:#2D3436;--bh-text-dark:#1A1F20;--bh-sage:#7C9885;--bh-sage-hover:#6B8874;--bh-gold:#C9A962;--bh-gold-hover:#B89852;--bh-footer:#2D3436;--bh-footer-text:#FBF9F6;--bh-ink-body:#606566;--bh-ink-faint:#676B6C;--bh-ink-sage:#58705F;--bh-ink-gold:#82672D;--bh-ink-sage-display:#6B8874;--bh-ink-on-sage:#1A1F20;--bh-ink-on-sage-hover:#0F1314;--bh-ink-footer-muted:#C8C8C6}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]]}],["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L7",null,{}],["$","$L8",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"children":["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"Page not found"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":["This address doesn’t match a page on the site. Go back to the"," ",["$","$Lb",null,{"href":"/","className":"prose-link","children":"home page"}]," ","or browse the"," ",["$","$Lb",null,{"href":"/teaching/","className":"prose-link","children":"teaching"}],"."]}]}],"$undefined"]}]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"theme-dark relative z-10 bg-footer","children":["$","div",null,{"className":"wrap flex flex-col gap-8 py-12 text-[0.92rem] text-[var(--fg-muted)] md:flex-row md:items-end md:justify-between","children":[["$","div",null,{"className":"max-w-md","children":[["$","p",null,{"className":"font-serif text-[1.35rem] leading-tight text-[var(--fg)]","children":["Bible ",["$","span",null,{"className":"italic","children":"Hrampi"}]]}],["$","p",null,{"className":"mt-1","children":"Biblical Foundations"}],["$","p",null,{"className":"mt-5 text-[0.85rem] text-[var(--fg-faint)]","children":"Scripture quotations are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. ESV Text Edition: 2025. The ESV text may not be quoted in any publication made available to the public by a Creative Commons license. The ESV may not be translated in whole or in part into any other language. Used by permission. All rights reserved."}]]}],["$","div",null,{"className":"flex flex-col gap-3 md:items-end","children":[["$","ul",null,{"className":"flex flex-wrap gap-x-6 gap-y-2","children":[["$","li",null,{"children":["$","$Lb",null,{"href":"/privacy/","className":"hover:text-[var(--fg)]","children":"Privacy Policy"}]}],["$","li",null,{"children":["$","$Lb",null,{"href":"/terms/","className":"hover:text-[var(--fg)]","children":"Terms"}]}],["$","li",null,{"children":["$","a",null,{"href":"mailto:biblehrampi@gmail.com","className":"break-all text-gold underline decoration-[color-mix(in_oklab,var(--bh-gold)_45%,transparent)] underline-offset-4 hover:text-[var(--fg)]","children":"biblehrampi@gmail.com"}]}]]}],"$Lc"]}]]}]}]]}]]}]]}],"p":false,"v":null},"c":"$Qd"},"h":{"r":"$L14","p":false,"v":null}},"m":"$undefined","G":["$15",["$L16"]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"YDq8VZYiIErgcInglecqR"}
+17:I[63605,["$2","$3","$4"],"default"]
+1a:"ViewportBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+1d:"MetadataBoundary"
+1e:I[97367,["$2","$3","$4"],"$1d"]
+1f:"$Sreact.suspense"
+c:["$","div",null,{"className":"flex flex-wrap gap-x-6 gap-y-2 text-[var(--fg-faint)]","children":[["$","$L17",null,{}],["$","p",null,{"children":["© ",2026," Bible Hrampi"]}]]}]
+e:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+11:["$","$1","c",{"children":[null,["$","$L9",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+18:T273a,<div class="note">
 <p><strong>The short version.</strong> PUMKHAT is a place for churches to stay connected. You must be 13 or older. Be kind and respectful, only post what you have the right to share, and follow your church leaders' reasonable rules. You own what you post. We provide the app as it is and do our best to keep it running well.</p>
 </div>
 
 <h2>1. About these terms</h2>
-<p>PUMKHAT is operated by Herh Cung Thang, an individual ("we", "us"). These terms are an agreement between you and him. If PUMKHAT later becomes a company, we will update these terms. By creating an account or using PUMKHAT, you agree to these terms and to our <a href="/pumkhat/privacy/">Privacy Policy</a>. If you don't agree, please don't use the app.</p>
+<p>PUMKHAT is operated by Herh Cung Thang, an individual ("we", "us"). These terms are an agreement between you and him. If PUMKHAT later becomes a company, we will update these terms. By creating an account or using PUMKHAT, you agree to these terms and to our <a href="https://pumkhat.biblehrampi.com/privacy/">Privacy Policy</a>. If you don't agree, please don't use the app.</p>
 
 <h2>2. Who can use PUMKHAT</h2>
 <ul>
-  <li>You must be at least <strong>13 years old</strong>. We ask for your birth month and year at sign-up, and people under 13 cannot create an account.</li>
+  <li>You must be at least <strong>13 years old</strong>. We ask for your birth month and year, and someone who tells us they are under 13 can’t use PUMKHAT.</li>
   <li>If you are under 18 (or the age of adulthood where you live), you should have a parent or guardian's permission and review these terms with them.</li>
   <li>You must give truthful information, including your birth month and year.</li>
   <li>You can't use PUMKHAT if we have previously removed you from it, or if the law doesn't allow you to.</li>
@@ -49,7 +48,7 @@ f:[["children",{"s":"pumkhat","h":512,"d":{"r":["$","$1","c",{"children":[null,[
   <li>You can sign up with email and password, or with Sign in with Apple, Google or Facebook where offered.</li>
   <li>Keep your sign-in details safe and don't share your account. You're responsible for what happens under your account.</li>
   <li>Tell us right away at <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a> if you think someone else is using it.</li>
-  <li>You can delete your account at any time in the app (Profile &rarr; Account &amp; Security &rarr; Review account deletion &rarr; Delete account). See our Privacy Policy for what is removed and what stays as "Former member".</li>
+  <li>You can delete your account at any time in the app (Profile &rarr; Account &amp; Security &rarr; Review deletion &rarr; Delete account). See our Privacy Policy for what is removed and what stays as "Former member".</li>
 </ul>
 
 <h2>4. Churches, leaders and roles</h2>
@@ -102,7 +101,7 @@ f:[["children",{"s":"pumkhat","h":512,"d":{"r":["$","$1","c",{"children":[null,[
 <p>PUMKHAT works with services run by others, such as sign-in providers, map apps, weather data, and links to livestreams or websites. Their own terms and privacy policies apply when you use them, and we are not responsible for them.</p>
 
 <h2>10. Changes to the app</h2>
-<p>We are always improving PUMKHAT. We may add, change or remove features, and some features may be free now and paid later. If we make a change that significantly affects you, we'll try to let you know in advance.</p>
+<p>We are always improving PUMKHAT. We may add, change or remove features, and some features may be free now and paid later. If we ever offer paid features, we'll show the price clearly before anyone pays, and we'll update these terms first. If we make a change that significantly affects you, we'll try to let you know in advance.</p>
 
 <h2>11. Ending your use</h2>
 <ul>
@@ -130,10 +129,13 @@ f:[["children",{"s":"pumkhat","h":512,"d":{"r":["$","$1","c",{"children":[null,[
 <p>We may update these terms. We'll change the date at the top, and if the change is important we'll let you know in the app or by email before it takes effect. If you keep using PUMKHAT after that, you accept the updated terms.</p>
 
 <h2>18. Contact us</h2>
-<p>PUMKHAT is operated by Herh Cung Thang. We are reachable by email only: <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a></p>14:["$","$1","c",{"children":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"PUMKHAT Terms of Service"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":"Last updated: October 20, 2026"}]}],["$","div",null,{"className":"reading mt-12","children":[["$","p",null,{"className":"legal-product","children":"PUMKHAT is a church community app by Bible Hrampi."}],["$","div",null,{"className":"legal","dangerouslySetInnerHTML":{"__html":"$1d"}}]]}]]}]}]}],null,"$L1e"]}]
-1f:I[3179,[],"OutletBoundary"]
-1e:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
-17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FBF9F6"}]]
-21:I[5042,[],"IconMark"]
-1b:[["$","title","0",{"children":"PUMKHAT Terms of Service | Bible Hrampi"}],["$","meta","1",{"name":"description","content":"The terms for using the PUMKHAT church app."}],["$","meta","2",{"property":"og:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","3",{"property":"og:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","meta","4",{"property":"og:url","content":"https://biblehrampi.com/"}],["$","meta","5",{"property":"og:site_name","content":"Bible Hrampi"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","9",{"name":"twitter:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L21","11",{}]]
-20:null
+<p>PUMKHAT is operated by Herh Cung Thang. We are reachable by email only: <a href="mailto:pumkhat@biblehrampi.com">pumkhat@biblehrampi.com</a></p>13:["$","$1","c",{"children":[["$","div",null,{"className":"bg-paper","children":["$","div",null,{"className":"wrap pb-24 pt-32 md:pb-36 md:pt-40","children":["$","div",null,{"className":"max-w-[680px]","children":[["$","h1",null,{"className":"display text-[clamp(2.8rem,7vw,5.2rem)]","children":"PUMKHAT Terms of Service"}],["$","div",null,{"className":"lede mt-6","children":["$","p",null,{"children":"Last updated: October 20, 2026"}]}],["$","div",null,{"className":"reading mt-12","children":[["$","p",null,{"className":"legal-product","children":"PUMKHAT is a church community app by Bible Hrampi."}],["$","div",null,{"className":"legal","dangerouslySetInnerHTML":{"__html":"$18"}}]]}]]}]}]}],null,"$L19"]}]
+14:["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1f",null,{"name":"Next.Metadata","children":"$L20"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+16:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2zs3c9bragx9a.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+21:I[97367,["$2","$3","$4"],"OutletBoundary"]
+f:C
+19:["$","$L21",null,{"children":["$","$1f",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FBF9F6"}]]
+23:I[27201,["$2","$3","$4"],"IconMark"]
+20:[["$","title","0",{"children":"PUMKHAT Terms of Service | Bible Hrampi"}],["$","meta","1",{"name":"description","content":"The terms for using the PUMKHAT church app."}],["$","meta","2",{"property":"og:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","3",{"property":"og:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","meta","4",{"property":"og:url","content":"https://biblehrampi.com/"}],["$","meta","5",{"property":"og:site_name","content":"Bible Hrampi"}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary"}],["$","meta","8",{"name":"twitter:title","content":"Bible Hrampi | Biblical Foundations"}],["$","meta","9",{"name":"twitter:description","content":"Building strong biblical foundations through clear Scripture teaching."}],["$","link","10",{"rel":"icon","href":"/favicon.svg"}],["$","$L23","11",{}]]
+22:null
